@@ -1,0 +1,21 @@
+.center{
+  background-color: beige;
+  border: 4px double rgb(193, 193, 131);
+  width: 80%;
+  margin: 10%;
+  border-radius: 5px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 11px 6px rgb(225, 225, 215);
+}
+
+
+.todo-row{
+  margin: 15px;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.kg-btn{
+  min-width: 90px;
+}
