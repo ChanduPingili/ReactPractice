@@ -1,0 +1,28 @@
+.components{
+  display: flex;
+  min-height: 700px;
+}
+
+.content{
+  width: 100%;
+}
+
+.post-card{
+  margin:20px;
+}
+
+.hashtags{
+  margin: 0 3px;
+  padding:6px;
+}
+
+
+.reactions{
+  margin: 15px 0 0 0;
+}
+
+.create-post{
+  margin-left : 10%;
+  width: 80%;
+  margin-top:20px;
+}
